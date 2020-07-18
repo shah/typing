@@ -1,4 +1,4 @@
-import * as inflect from "https://cdn.jsdelivr.net/gh/shah/text-inflect@v1.0.0/mod.ts";
+import * as inflect from "https://denopkg.com/shah/text-inflect@v1.0.0/mod.ts";
 
 // from [this discussion](https://stackoverflow.com/questions/44323441/changing-property-name-in-typescript-mapped-type)
 
